@@ -7,8 +7,8 @@ import java.util.*;
 import java.util.Timer;
 import javax.swing.*;
 /**
- *
- * @author gussr
+ *cjioisjadf
+ * @author gussr chi chichic
  */
 public class Funciones {
 Random N = new Random();

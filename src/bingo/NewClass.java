@@ -7,8 +7,8 @@ package bingo;
 
 /**
  *
- * @author sofia
+ * @author Alumno
  */
-public class metodos {
+public class NewClass {
     
 }
